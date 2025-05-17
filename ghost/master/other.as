@@ -25,13 +25,15 @@ function homeurl
 	return "https://raw.githubusercontent.com/yuyudev-thatoddhaystack/midnight_sheep/refs/heads/main/";
 }
 
+//yoinked from hoard of shinies
+//—————————————————————————————— Network Update ——————————————————————————————
+//https://ukagakadreamteam.github.io/ukadoc/manual/list_shiori_event.html#OnUpdateBegin
+
 function OnUpdateBegin
 {
 	return "\0\![set,serikotalk,false]Checking for updates.\w8";
 }
 
-
-//i yoinked the update functions from hoard of shinies 
 //reference0 is the number of new files, starting from 0
 function OnUpdateReady
 {
