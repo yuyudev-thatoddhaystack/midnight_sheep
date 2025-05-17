@@ -1,0 +1,11 @@
+charset,UTF-8
+type,ghost
+name,Midnight Sheep
+sakura.name,Leone
+kero.name,none
+
+craftman,Vita/yuyudev
+craftmanw,Vita/yuyudev
+craftmanurl,https://thatoddhaystack.neocities.org/ukagaka/
+
+shiori,aosora.dll
