@@ -22,5 +22,5 @@ function sakura@recommendsites
 
 function homeurl
 {
-	return "";
+	return "https://raw.githubusercontent.com/yuyudev-thatoddhaystack/midnight_sheep/refs/heads/main/";
 }
