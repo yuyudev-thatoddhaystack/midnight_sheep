@@ -15,3 +15,7 @@ https://github.com/kanadelab/aosora-shiori
 All images and content other than the above were self-made or do not require a clear statement of the source.
 
 Ghost for ゴーストマスカレード7 (Ghost Masquerade 7)
+
+Version History
+
+5/16/25 - v1.0, post masquerade version. Added recommended site links and update capabilities. Updated Aosora version.
