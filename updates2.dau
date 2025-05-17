@@ -1,4 +1,5 @@
-install.txtfdb741c31f35b5db9f901f310bf686a6size=77date=2025-04-24T14:06:08charset=OSNative
+.gitignore1cabcb137c7fb1fb685701ea389bdba4size=92date=2025-05-16T20:32:25charset=OSNative
+install.txtfdb741c31f35b5db9f901f310bf686a6size=77date=2025-04-24T14:06:08
 readme.txt0694cdad3f09b91fc9c54b949bcf799dsize=776date=2025-05-16T20:35:03
 thumbnail.pngeff5938874d9dfaff5961d1ce08202b1size=110643date=2025-04-24T13:05:59
 ghost/master/aitalk.as7635e6d9dd5aa776d1ffa9dd5a7142a4size=5978date=2025-04-24T12:30:37
@@ -7,7 +8,7 @@ ghost/master/descript.txt0d3c39db2943e0503f1b4de01ba02381size=211date=2025-05
 ghost/master/ghost.asproj861390003c7dfdfcc91bf7c0a8b5a307size=37date=2025-05-16T20:23:32
 ghost/master/main.as03cbc53cc6244fc74f86e85576f2fd6asize=1333date=2025-05-16T20:15:11
 ghost/master/menu.as7a9e9cf70a6dff6330de0ac41d1f14b5size=1616date=2025-05-16T20:15:02
-ghost/master/other.aseb058623d724c32dbaf79274904d43d1size=824date=2025-05-16T20:23:58
+ghost/master/other.as5e1ccfee867f3bb8e0fe02c9cdb3a72dsize=913date=2025-05-16T20:39:14
 shell/master/descript.txt4f9fdaf2cf4b20809cbc18342de049f0size=700date=2024-05-31T12:39:52
 shell/master/readme.txtddd480c8e4789b80389d10d6bdc44fd7size=648date=2024-05-31T12:39:52
 shell/master/surface00.png5642aaec8d97340fa7e7bf37f89e682fsize=144253date=2024-05-31T12:39:52
